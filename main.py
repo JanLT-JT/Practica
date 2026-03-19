@@ -84,7 +84,7 @@ def main():
         elif opcion == '3':
             actualizar_producto()
         elif opcion == '4':
-            print("\nSaliendo del programa. ¡Hasta luego!\n")
+            print("\nSaliendo del programa. Hasta luego\n")
             break
         else:
             print("\n Error: Opción no válida. Intente nuevamente.")
